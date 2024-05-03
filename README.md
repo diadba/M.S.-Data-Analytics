@@ -1,7 +1,7 @@
 # M.S. Data Analytics
 Repository for Masters of Science in Data Analytics course work.
 
-Completed Courses:
+Completed Courses: <br />
 D204 - The Data Analytics Journey.       
 D205 - Data Acquisition.                 
 D206 - Data Cleaning.                     
