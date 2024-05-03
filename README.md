@@ -12,8 +12,8 @@ D211 - Advanced Data Acquisition. <br />
 In Progress: <br />
 D209 - Data Mining I.
 
-Remaining:
-D210 - Representation and Reporting.
-D212 - Data Mining II.
-D213 - Advanced Data Analytics.
+Remaining: <br />
+D210 - Representation and Reporting. <br />
+D212 - Data Mining II. <br />
+D213 - Advanced Data Analytics. <br />
 D214 - Data Analytics Graduate Capstone.
