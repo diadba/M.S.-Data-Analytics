@@ -9,7 +9,7 @@ D207 - Exploratory Data Analysis. <br />
 D208 - Predictive Modeling. <br />
 D211 - Advanced Data Acquisition. <br />
 
-In Progress:
+In Progress: <br />
 D209 - Data Mining I.
 
 Remaining:
