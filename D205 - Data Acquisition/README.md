@@ -1,1 +1,1 @@
-This class was satisfied by transferring in the field certification "OCASQL12C - Coots, Anthony.pdf".
+This course was satisfied by transferring in the field certification "OCASQL12C - Coots, Anthony.pdf".
