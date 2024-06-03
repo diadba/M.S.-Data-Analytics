@@ -7,13 +7,13 @@ D205 - Data Acquisition.
 D206 - Data Cleaning.                  
 D207 - Exploratory Data Analysis. <br />
 D208 - Predictive Modeling. <br />
+D209 - Data Mining I.<br />
+D210 - Representation and Reporting. <br />
 D211 - Advanced Data Acquisition. <br />
+D212 - Data Mining II. <br />
 
 In Progress: <br />
-D209 - Data Mining I.
+D213 - Advanced Data Analytics. <br />
 
 Remaining: <br />
-D210 - Representation and Reporting. <br />
-D212 - Data Mining II. <br />
-D213 - Advanced Data Analytics. <br />
 D214 - Data Analytics Graduate Capstone.
