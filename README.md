@@ -1,5 +1,5 @@
-# M.S. Data Analytics
-Repository for Masters of Science in Data Analytics course work.
+## M.S. Data Analytics
+Personal repository for Masters of Science in Data Analytics course work at Western Governors University.
 
 Completed Courses: <br />
 D204 - The Data Analytics Journey.      
