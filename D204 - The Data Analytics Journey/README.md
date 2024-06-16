@@ -11,8 +11,8 @@ Course Competencies:
 - Data Analytics Tools and Techniques.
 
 Passing Metric:
-This course was satisfied via competent exam score. This course was the only course that was exam only.
+This course was satisfied via competent exam score. This course was the only course that was satisfied by exam only, all other courses are of project submission.
 
 Transfer Note:
 "GPA: This student completed each of the listed courses with a GPA between 3.0 and 4.0 on a 4.0-scale."
-- Found here: https://www.wgu.edu/admissions/transfers.html
+- Found [here.](https://www.wgu.edu/admissions/transfers.html)
