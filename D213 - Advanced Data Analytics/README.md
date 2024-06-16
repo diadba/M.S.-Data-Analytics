@@ -1,22 +1,22 @@
 Course Overview:
 
-Data Mining I expands predictive modeling into nonlinear dimensions, enhancing the capabilities and effectiveness of the data analytics lifecycle. In this course, learners implement supervised models - specifically classification and prediction data mining models - to unearth relationships among variables that are not apparent with more surface-level techniques. The course provides frameworks for assessing models' sensitivity and specificity.
+Advanced Data Analytics prepares students for career-long growth in steadily advancing tools and techniques and provides emerging concepts in data analysis. This course hones the mental and theoretical flexibility that will be required of analysts in the coming decades while grounding their approach firmly in ethical and organizational-need-focused practice. Topics include machine learning, neural networks, randomness, and unconventional data sources.
 <br/><br />
 
 Course Competencies:
 
-- 4030.5.1: Classification Data Mining Models.
-	- The graduate applies observations to appropriate classes and categories using classification models.
+- 4030.7.1: Constructing Neural Networks.
+	- The graduate builds neural networks in the context of machine-learning modeling.
 
-- 4030.5.2: Predictive Data Mining Models.
-	- The graduate implements prediction data mining models to find hard-to-spot relationships among variables.
+- 4030.5.2: Time Series Analysis.
+	- The graduate applies time series models in generating forecasts.
 
-- 4030.5.3: Data Mining Model Performance.
-	- The graduate evaluates data mining model performance for precision, accuracy, and model comparison.
+- 4030.5.3: Natural Language Processing.
+	- The graduate extracts insights from text data using effective and appropriate natural language processing (NLP) models.
 <br /><br />
 
 Passing Metric:
-This course was satisfied by submission of a perfomance assessment. The submission files can be found in the '*Course Materials*', '*Task 1 - Classification Analysis*', and '*Task 2 - Predictive Analysis*' subrepositories.
+This course was satisfied by submission of a perfomance assessment. The submission files can be found in the '*Course Materials*', '*Task 1 - Time Series Modeling*', and '*Task 2 - Sentiment Analysis Using Neural Networks*' subrepositories.
 <br /><br />
 
 Transfer Note:
