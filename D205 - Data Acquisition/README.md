@@ -5,8 +5,6 @@ Data Acquisition builds proficiency in Structured Query Lanagage (SQL) and the i
 
 Course Competencies:
 
-- Course Planning.
-
 - 4034.3.1: Dimension, Quality Relations, and Limitations.
 	- The graduate examines the data available for analysis to determine their dimension, quality, relations, and limitations.
 
