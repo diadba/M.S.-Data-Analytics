@@ -18,3 +18,6 @@ This course was satisfied via competent exam score. This course was the only cou
 Transfer Note:
 "GPA: This student completed each of the listed courses with a GPA between 3.0 and 4.0 on a 4.0-scale."
 - Found [here.](https://www.wgu.edu/admissions/transfers.html)
+<br /><br />
+
+All details pertaining to this file, such as overview and competencies are replications from the information available in the course; The associated text is from WGU.
