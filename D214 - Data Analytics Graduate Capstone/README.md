@@ -10,7 +10,7 @@ Course Competencies:
 <br /><br />
 
 Passing Metric:
-This course **will** be satisfied by submission of a perfomance assessment. The submission files can be found in the '*Task 1 - Capstone Topic Approval and Release Form*', '*Task 2 - Data Analytics Report and Executive Summary*', and '*Task 3 - Presentation of Findings*' subrepositories.
+This course was satisfied by submission of a contribution study related to the program.
 <br /><br />
 
 Transfer Note:
