@@ -15,6 +15,7 @@ D213 - Advanced Data Analytics. <br />
 D214 - Data Analytics Graduate Capstone.<br />
 
 In Progress: <br />
+None.<br />
 
 Remaining: <br />
 None.
