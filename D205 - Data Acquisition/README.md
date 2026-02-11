@@ -16,7 +16,9 @@ Course Competencies:
 <br /><br />
 
 Passing Metric:
-This course was satisfied by transferring in the field certification "OCASQL12C - Coots, Anthony.pdf".
+
+- This course was satisfied by transferring in the field certification "OCASQL12C - Coots, Anthony.pdf".<br /><br />
+	- **OCASQL12C**: Oracle Database SQL Certified Associate certification from Oracle University.
 <br /><br />
 
 Transfer Note:
